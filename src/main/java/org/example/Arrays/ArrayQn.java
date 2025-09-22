@@ -205,13 +205,13 @@ public class ArrayQn {
 
 
 //    Find the smallest element at odd index.
-        int small = arr[1];
-        for (int i = 1 ; i < arr.length ; i=i+2) {
-            if(arr[i] < small){
-                small = arr[i];
-            }
-        }
-        System.out.println("Smallest at odd index is :"+small);
+//        int small = arr[1];
+//        for (int i = 1 ; i < arr.length ; i=i+2) {
+//            if(arr[i] < small){
+//                small = arr[i];
+//            }
+//        }
+//        System.out.println("Smallest at odd index is :"+small);
 
 //    Print all elements of an array in reverse order (without actually reversing).
 //        for(int i=arr.length-1;i>0;i--){
