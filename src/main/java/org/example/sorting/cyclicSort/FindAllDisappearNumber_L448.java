@@ -1,10 +1,8 @@
-package org.example.sorting;
+package org.example.sorting.cyclicSort;
 
 import java.util.Arrays;
 
 public class FindAllDisappearNumber_L448 {
-
-
 
     public static void main(String[] args) {
         int[] arr = {4,3,2,7,8,2,3,1};

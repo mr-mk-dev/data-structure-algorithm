@@ -1,4 +1,4 @@
-package org.example.sorting;
+package org.example.sorting.cyclicSort;
 
 public class MissingNumber_L268 {
 
