@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class Str_Qn {
     public static void main (String[] args) {
 
-        String str = new String("Manish Kumar , I'm from ramgrah Jharkhand");
+        String str = new String("Manish Kumar , I'm from ramgarh Jharkhand");
         String str2 = "Ranjeet is a good boy he does multitasking";
 
 //        Find the length of a string without using built-in functions.
